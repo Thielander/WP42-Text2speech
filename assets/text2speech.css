@@ -1,0 +1,15 @@
+@keyframes custom-spinner {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.custom-spinner:before {
+  display: inline-block;
+  animation: custom-spinner 2s infinite linear;
+}
+
+.dashicons-update.custom-spinner:before {
+  content: "\f463"; 
+  font-family: "dashicons";
+  display: inline-block;
+}
