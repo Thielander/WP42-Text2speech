@@ -1,6 +1,6 @@
 === WP-Text2speech ===
 Contributors: axelskywalker
-Tags: text-to-speech, accessibility, audio, text2speech
+Tags: text-to-speech, accessibility, audio, text2speech, texttospeech
 Requires at least: 5.0
 Tested up to: 6.4
 Stable tag: 1.0
